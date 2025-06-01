@@ -20,3 +20,4 @@ st.dataframe(df)
 
 st.write(df.columns.tolist())
 #df[target] = data target
+#df['label'] = df['variety'].

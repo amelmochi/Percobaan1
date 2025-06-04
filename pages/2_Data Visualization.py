@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title("📈 Halaman 1: Eksplorasi Data Restoran")
 
 # Load dataset dari GitHub 
-url = "https://raw.githubusercontent.com/fitripl02/streamlit/refs/heads/main/semarang_resto_dataset.csv"
+url = "https://raw.githubusercontent.com/amelmochi/streamlit/refs/heads/main/semarang_resto_dataset.csv"
 df = pd.read_csv(url)
 
 # Tampilkan dataset
